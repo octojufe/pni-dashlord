@@ -1,30 +1,42 @@
 title: DashLord example
 description: Bonnes pratiques techniques
-entity: Votre entité
+entity: Pôle Numérique Inclusif
 footer: Powered by SocialGouv
 marianne: false
 seo: false
 tools:
-  "404": true
-  screenshot: true
-  nmap: true
-  zap: true
-  wappalyzer: true
-  http: true
-  testssl: true
+#  "404": true
+#  screenshot: true
+#  nmap: true
+#  zap: true
+#  wappalyzer: true
+#  http: true
+#  testssl: true
   lighthouse: true
-  thirdparties: true
-  nuclei: true
-  updownio: false
-  dependabot: true
-  codescan: true
-  stats: false
+#  thirdparties: true
+#  nuclei: true
+#  updownio: false
+#  dependabot: true
+#  codescan: true
+#  stats: false
   declaration-a11y: true
   ecoindex: true
   dsfr: true
   betagouv: true
 columns: # pour masquer des colonnes
   zap: false
+  "404": false
+  screenshot: false
+  nmap: false
+  wappalyzer: false
+  http: false
+  testssl: false
+  thirdparties: false
+  nuclei: false
+  updownio: false
+  dependabot: false
+  codescan: false
+  stats: false
 updownioStatusPage: https://updown.io/status_pages
 updownioRecipients:
   - email:123456
