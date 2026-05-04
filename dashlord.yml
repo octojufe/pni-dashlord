@@ -5,26 +5,37 @@ footer: Powered by SocialGouv
 marianne: false
 seo: false
 tools:
-  "404": true
-  screenshot: true
-  nmap: true
-  zap: true
-  wappalyzer: true
+  "404": false
+  screenshot: false
+  nmap: false
+  zap: false
+  wappalyzer: false
   http: true
-  testssl: true
+  testssl: false
   lighthouse: true
-  thirdparties: true
-  nuclei: true
+  thirdparties: false
+  nuclei: false
   updownio: false
-  dependabot: true
-  codescan: true
+  dependabot: false
+  codescan: false
   stats: false
   declaration-a11y: true
   ecoindex: true
   dsfr: true
   betagouv: true
 columns: # pour masquer des colonnes
+  "404": false
+  screenshot: false
+  nmap: false
   zap: false
+  wappalyzer: false
+  testssl: false
+  thirdparties: false
+  nuclei: false
+  updownio: false
+  dependabot: false
+  codescan: false
+  stats: false
 updownioStatusPage: https://updown.io/status_pages
 updownioRecipients:
   - email:123456
@@ -36,3 +47,6 @@ urls:
     docker:
       - ghcr.io/socialgouv/fabrique/frontend
   - url: https://beta.gouv.fr
+  - url: https://aigle.beta.gouv.fr
+  - url: https://a-just.beta.gouv.fr
+  - url: https://ada.universcience.fr
