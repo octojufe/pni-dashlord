@@ -1,14 +1,1 @@
-##### DECLARATION URL INSIDE IF :  https://www.fabrique.social.gouv.fr/accessibilite
-###### INSIDE FIND MOST RECENT DATE
-###### CANDIDATES :  Set(2) { '28 juin 2024', '11 février 2005' }
-###### DECLARATION DATE FOUND :  {
-  found: true,
-  mostRecentDate: 2024-06-28T00:00:00.000Z,
-  rawString: '28 juin 2024',
-  isLessThan3Years: true,
-  allDatesFound: [
-    { raw: '28 juin 2024', date: 2024-06-28T00:00:00.000Z },
-    { raw: '11 février 2005', date: 2005-02-11T00:00:00.000Z }
-  ]
-}
 {"mention":"Accessibilité : non conforme","declarationUrl":"https://www.fabrique.social.gouv.fr/accessibilite","declarationDateFound":true,"declarationIsUpToDate":true}
