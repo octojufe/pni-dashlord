@@ -3,7 +3,7 @@
         "width": 1920,
         "height": 1080,
         "url": "https://ada.universcience.fr",
-        "size": 1023.195,
+        "size": 1023.167,
         "nodes": 264,
         "requests": 63,
         "grade": "C",
@@ -11,7 +11,7 @@
         "ges": 1.62,
         "water": 2.43,
         "ecoindex_version": "5.4.2",
-        "date": "2026-05-05 07:08:26.942806",
+        "date": "2026-05-10 02:30:29.495478",
         "page_type": null
     }
 ]
