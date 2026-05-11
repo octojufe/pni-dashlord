@@ -1,1 +1,326 @@
+####### HTML TEXT CONTENT :  
+			
+		
+		UNCODE.initBox();
+		
+														
+															
+																
+																	
+																		
+																			La Fabrique numérique des ministères sociaux
+																		
+																	
+																
+																
+															
+														
+													
+													
+														
+															
+																
+																	
+																		
+																			
+																				Notre histoire
+Notre proposition de valeur
+Notre plateforme
+Notre équipe
+Nos startups
+
+													Recherche
+													
+														
+															
+																
+														
+													
+																		
+																	
+																
+															
+													
+															UNCODE.fixMenuHeight();
+			
+				
+					
+						
+
+									
+					
+				
+
+
+					
+				UNCODE.initRow(document.getElementById("row-unique-0"));
+					
+				
+
+
+					
+				
+Notre histoireNotre proposition de valeurNotre plateformeNotre équipeNos startups.main-nav li.item span.title {     text-transform:initial;     color:#4e4e4e;     font-size:15px}.main-nav li.item span.title:hover {     color:#aaa}@media only screen and (max-width: 992px) {.sliding-menu .rsm-burger {
+				display: inline-block;
+				font-size: 28px;
+				color: #000091;
+			}
+			.sliding-menu .main-nav-container {
+				position: fixed;
+				top: 0;
+				background: #ffffff;
+				height: 100%;
+				padding: 70px 10px 10px 30px;
+				transition: 0.5s all ease-in-out;
+				left: -100%;
+				width: 40%;
+				visibility: hidden;
+				opacity: 0;
+				z-index: 9999;
+				box-shadow: 0px 0 10px #d8d8d8;
+			}
+			.sliding-menu .main-nav-container.active {
+				left: 0;
+				visibility: visible;
+				opacity: 1;
+				padding-top: 95px;
+			}
+			.sliding-menu .main-nav {
+				display: flex;
+				flex-direction: column;
+			}
+			.nav-desktop-layer .nav-first-layer {
+				width: 40%;
+			}
+			.nav-desktop-layer {
+				z-index: 1007;
+			}
+			.main-nav li.item {
+				margin-bottom: 15px;
+			}
+			.sliding-menu .icon.icon-close.close-menu {
+				visibility: visible;
+				opacity: 1;
+				z-index: 1006;
+			}
+			.nav-desktop-layer .nav-overlay {
+				width: 250%;
+			}
+			.main-nav li.item span.title {
+				color : #4e4e4e;
+			}
+			.main-nav li.item span.title:hover {
+				color : #1212ff;
+			}}@media only screen and (max-width: 600px) {
+			.sliding-menu .main-nav-container {
+				width: 60%;
+			}
+			.nav-desktop-layer .nav-first-layer {
+				width: 80%;
+			}
+		}
+UNCODE.initRow(document.getElementById("row-unique-1"));MenuNotre histoire
+Notre proposition de valeur
+Notre plateforme
+Notre équipe
+Nos startups
+UNCODE.initRow(document.getElementById("row-unique-2"));UNCODE.initHeader();
+						
+							Nous construisons des produits numériques à impact social
+					
+				UNCODE.initRow(document.getElementById("row-unique-3"));Nous construisons des produits numériques à impact social
+					
+				UNCODE.initRow(document.getElementById("row-unique-4"));
+Découvrir la Fabrique
+
+
+					
+				Notre histoire
+
+					
+				
+
+    
+
+
+
+					
+				La proposition de valeur
+
+					
+				
+
+    
+
+
+
+
+					
+				Notre plateforme
+
+					
+				
+
+    
+
+
+
+					
+				L'équipe
+
+					
+				
+
+    
+
+UNCODE.initRow(document.getElementById("row-unique-5"));13startups actives à la Fabrique
+
+Travail, plein emploi et insertion
+					
+				
+Santé et prévention 
+					
+				
+Solidarité, personnes agées et handicapées
+					
+				
+Toutes les startups
+
+UNCODE.initRow(document.getElementById("row-unique-6"));
+											
+												
+												
+											
+										Tout commence par un point deCONTACT
+dnum.fabrique@sg.social.gouv.fr
+UNCODE.initRow(document.getElementById("row-unique-7"));
+											
+												
+												
+											
+										Tout commence par un point deCONTACT
+DSI-incubateur@sg.social.gouv.fr
+UNCODE.initRow(document.getElementById("row-unique-8"));
+											
+												
+												
+											
+										Tout commence par un point de CONTACTDSI-incubateur@sg.social.gouv.fr
+UNCODE.initRow(document.getElementById("row-unique-9"));
+											
+												
+												
+											
+										Tout commence par un point de CONTACTdnum.fabrique@sg.social.gouv.fr
+UNCODE.initRow(document.getElementById("row-unique-10"));
+
+						
+					
+								
+							
+												
+							
+La Fabrique
+
+Notre histoire
+Notre proposition de valeur
+L’équipe
+Nos startups
+
+
+Ressources
+
+Bilan d’activité 2023
+beta.gouv.fr
+DNUM
+Nous contacter
+
+
+Ministères Sociaux
+
+travail-emploi.gouv.fr 
+sante.gouv.fr 
+solidarites.gouv.fr
+
+UNCODE.initRow(document.getElementById("row-unique-11"));
+					
+				
+					
+				La Fabrique Numérique c’est l’incubateur de startups d’État des Ministères Sociaux. L’incubateur vise à encourager l’innovation numérique et la transformation digitale au sein des ministères et des services sociaux en créant un environnement propice à la collaboration, à l’expérimentation et au développement de solutions innovantes.
+info.gouv.fr
+ service-public.fr
+legifrance.gouv.fr
+ data.gouv.fr
+UNCODE.initRow(document.getElementById("row-unique-12"));Accessibilité : non conforme
+Mentions légales 
+Plan du site
+UNCODE.initRow(document.getElementById("row-unique-13"));Sauf mention contraire, tous les contenus de ce site sont sous etalab 2.0.
+UNCODE.initRow(document.getElementById("row-unique-14"));						
+																	
+				
+							
+					
+		
+					
+				
+				
+	
+		
+		
+
+			
+
+
+			
+		
+	
+
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="https://matomo.fabrique.social.gouv.fr/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '2']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+
+ window.wpbCustomElement = 1; 
+/* <![CDATA[ */
+var mejsL10n = {"language":"fr","strings":{"mejs.download-file":"Download File","mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen":"Fullscreen","mejs.play":"Play","mejs.pause":"Pause","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.live-broadcast":"Live Broadcast","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
+/* ]]> */
+
+
+
+
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive","audioShortcodeLibrary":"mediaelement","videoShortcodeLibrary":"mediaelement"};
+/* ]]> */
+
+
+
+
+
+
+
+
+
+###### CANDIDATES :  Set(2) { '28 juin 2024', '11 février 2005' }
+###### VALID DATES :  [
+  { raw: '28 juin 2024', date: 2024-06-28T00:00:00.000Z },
+  { raw: '11 février 2005', date: 2005-02-11T00:00:00.000Z }
+]
+###### MOST RECENT DATE :  2024-06-28T00:00:00.000Z
+###### DECLARATION DATE :  {
+  found: true,
+  mostRecentDate: 2024-06-28T00:00:00.000Z,
+  rawString: '28 juin 2024',
+  isLessThan3Years: true,
+  allDatesFound: [
+    { raw: '28 juin 2024', date: 2024-06-28T00:00:00.000Z },
+    { raw: '11 février 2005', date: 2005-02-11T00:00:00.000Z }
+  ]
+}
 {"mention":"Accessibilité : non conforme","declarationUrl":"https://www.fabrique.social.gouv.fr/accessibilite","declarationDate":"28 juin 2024","declarationIsUpToDate":true}
