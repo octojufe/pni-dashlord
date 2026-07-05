@@ -3,7 +3,7 @@
         "width": 1920,
         "height": 1080,
         "url": "https://beta.gouv.fr",
-        "size": 887.357,
+        "size": 887.42,
         "nodes": 332,
         "requests": 43,
         "grade": "B",
@@ -11,7 +11,7 @@
         "ges": 1.56,
         "water": 2.34,
         "ecoindex_version": "5.4.2",
-        "date": "2026-06-28 02:52:50.962746",
+        "date": "2026-07-05 02:32:36.710902",
         "page_type": null
     }
 ]
