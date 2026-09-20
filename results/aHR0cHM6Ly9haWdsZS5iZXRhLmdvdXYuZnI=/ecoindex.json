@@ -3,7 +3,7 @@
         "width": 1920,
         "height": 1080,
         "url": "https://aigle.beta.gouv.fr",
-        "size": 1908.97,
+        "size": 1908.979,
         "nodes": 173,
         "requests": 14,
         "grade": "B",
@@ -11,7 +11,7 @@
         "ges": 1.42,
         "water": 2.13,
         "ecoindex_version": "5.4.2",
-        "date": "2026-09-13 02:37:56.757497",
+        "date": "2026-09-20 02:53:32.064110",
         "page_type": null
     }
 ]
