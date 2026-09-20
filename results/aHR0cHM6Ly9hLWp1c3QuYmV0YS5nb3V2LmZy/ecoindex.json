@@ -3,7 +3,7 @@
         "width": 1920,
         "height": 1080,
         "url": "https://a-just.beta.gouv.fr",
-        "size": 2763.964,
+        "size": 2764.628,
         "nodes": 126,
         "requests": 32,
         "grade": "B",
@@ -11,7 +11,7 @@
         "ges": 1.5,
         "water": 2.25,
         "ecoindex_version": "5.4.2",
-        "date": "2026-09-13 02:40:22.353660",
+        "date": "2026-09-20 02:55:49.787548",
         "page_type": null
     }
 ]
