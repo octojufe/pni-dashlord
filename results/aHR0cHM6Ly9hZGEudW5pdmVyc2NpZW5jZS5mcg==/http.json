@@ -10,12 +10,12 @@
     "testsQuantity": 10,
     "responseHeaders": {
       "server": "nginx",
-      "date": "Sun, 18 Oct 2026 02:38:33 GMT",
-      "content-type": "text/html; charset=utf-8",
+      "date": "Sun, 01 Nov 2026 03:50:28 GMT",
+      "content-type": "text/html",
+      "last-modified": "Fri, 23 Oct 2026 16:35:12 GMT",
       "transfer-encoding": "chunked",
       "connection": "close",
-      "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Accept-Encoding",
-      "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate"
+      "etag": "W/\"6adb8cc0-1709\""
     }
   },
   "tests": {
